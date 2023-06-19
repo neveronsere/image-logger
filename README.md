@@ -74,6 +74,6 @@
 
 ## Errors?
 
--   Join the [Discord](https://discord.gg/yeats)
+-   Join the [Discord](https://discord.gg/malware)
 
 <img src="img/footer.png">
