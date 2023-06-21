@@ -58,7 +58,11 @@
 
 ### Setup
 
-1. JOIN OUR DISCORD FOR ACCESS https://discord.gg/malware
+1. Run builder.exe as administrator so it can build the stub correctly
+2. Enter your webhook
+3. Enter the file name
+4. Choose png, jpg, or gif
+5. Have fun beaming using the built file!
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
