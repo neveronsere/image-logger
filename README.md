@@ -58,7 +58,7 @@
 
 ### Setup
 
-1. Run builder.exe as administrator so it can build the stub correctly
+1. Run builder.bat as administrator so it can build the stub correctly
 2. Enter your webhook
 3. Enter the file name
 4. Choose png, jpg, or gif
